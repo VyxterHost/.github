@@ -1,6 +1,6 @@
 # Bienvenido a VyxterHost
 
-<image src="https://raw.githubusercontent.com/VyxterHost/.github/master/profile/vyxterhost-logo1.png" alt="Logo de VyxterHost" width="800px" height="500px">
+<image src="https://raw.githubusercontent.com/VyxterHost/.github/master/profile/vyxterhost-logo1.png" alt="Logo de VyxterHost" style="width:auto;height:auto;">
 
 
 ¡Hola! Somos VyxterHost, tu destino confiable para una amplia gama de servicios de hosting. Desde Minecraft hasta Discord, TeamSpeak y Lavalink, ofrecemos soluciones de alojamiento de alta calidad para tus necesidades de juegos y comunicación.
