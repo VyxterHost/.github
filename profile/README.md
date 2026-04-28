@@ -10,11 +10,16 @@ A partir de ahora, el proyecto y su legado quedan integrados dentro de:
 
 ## 🌐 Fusiora
 
-<a href="https://fusiora.com">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQP8vrEjymzheNumnWS5-DaQ43l4c1cM90wuA&s" alt="Logo de Fusiora" style="width:220px;">
-</a>
+<p align="center">
+  <a href="https://fusiora.com">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQP8vrEjymzheNumnWS5-DaQ43l4c1cM90wuA&s" alt="Logo de Fusiora" style="width:100%;height:100%;">
+  </a>
+</p>
 
-**Sitio web:** [fusiora.com](https://fusiora.com)
+<p align="center">
+  <strong>Sitio web:</strong> <a href="https://fusiora.com">fusiora.com</a><br>
+  <strong>GitHub:</strong> <a href="https://github.com/Fusiora-OU">github.com/Fusiora-OU</a>
+</p>
 
 Este espacio en GitHub se mantiene únicamente de forma temporal como archivo histórico y punto de referencia. Es posible que en el futuro esta organización desaparezca o sea reemplazada por los recursos oficiales de Fusiora.
 
